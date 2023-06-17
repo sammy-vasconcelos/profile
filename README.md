@@ -1,14 +1,15 @@
-<img widht=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:f9c2e1,100:800080&height=150&section=header">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:f9c2e1,100:800080&height=150&section=header"/>
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=66000000&text=%20_______________________Sâmia%20Vasconcelos________________________%20&fontSize=30&height=50&section=header&fontColor=FFFFFF&animation=twinkling)
+<img width=100% src="https://capsule-render.vercel.app/api?type=transparent&text=%20Sâmia%20Vasconcelos%20&fontSize=30&height=50&section=header&fontColor=FFFFFF&animation=twinkling"/>
+
+<div align="center" >
+  <img src="https://piskel-imgstore-b.appspot.com/img/9097d559-0d19-11ee-9f2e-91ff02be3d7f.gif" alt="Image Description" width="150px" align="center">
+</div>
 
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/102080816/246168935-b72c80fb-4af8-4856-907f-dd4b3b8e9e78.gif" alt="Image Description" width="150px" align="center" >
-  </div>
-<div align="center">
-  <a href="https://github.com/flavicastelo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=flavicastelo&show_icons=true&theme=panda&include_all_commits=false&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=flavicastelo&layout=compact&langs_count=7&theme=panda"/>
+  <a href="https://github.com/sammy-vasconcelos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=sammy-vasconcelos&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sammy-vasconcelos&layout=compact&langs_count=7&theme=jolly"/>
 </div>
 <div style="display: inline_block" align="center"><br>
   <img align="center" alt="Flaviana-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -41,5 +42,5 @@
 
 
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:800080,100:f9c2e1&height=150&section=footer)
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0:800080,100:f9c2e1&height=150&section=footer"/>
 
