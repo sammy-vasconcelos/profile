@@ -29,15 +29,16 @@
   ##
  
 <div align="center"> 
-  <a href="https://www.linkedin.com/in/flavicastelo" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href = "mailto:flaviacastelocc@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/sâmia-vasconcelos-71801b22b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+  <a href = "mailto:samiavascmonte@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
 
 </div>
 <br/>
   
 - 💻  Sou **estagiária na Envolve**
-- 🏠 Estudo **Análise e Desenvolvimento de Sistemas**
-- 🌱 Foco em aprender **Front-end**
+- 🏠 Estudo **Ciência da Computação**
+- 🌱 Foco em ser **Full-Stack** e **Desenvolvimento de Jogos**
+  
 
 
 
